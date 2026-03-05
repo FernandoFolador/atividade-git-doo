@@ -4,6 +4,8 @@ public class Main {
 
         Hello.hello();
         Alemon.falar();
+        Italiaano.falar();
+
 
     }
 
